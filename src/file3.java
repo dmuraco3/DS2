@@ -1,5 +1,6 @@
 class file3 {
     public static void main (String args[]) {
-        System.out.println("This is file3.java!");
+        String filename = "file3.java";
+        System.out.println("This is " + filename);
     }
 }
